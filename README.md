@@ -268,9 +268,6 @@ Generates:
 
 ---
 
-## 📜 License
-
-MIT License
 
 ---
 
